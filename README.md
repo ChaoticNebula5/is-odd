@@ -6,6 +6,7 @@ Install with [npm](https://www.npmjs.com/)
 ```sh
 $ npm install --save @samuelmarina/is-odd
 ```
+ok
 
 ## How to use it
 ```js
